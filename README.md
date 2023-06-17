@@ -19,11 +19,11 @@ pip install -r requirements.txt
 
 4. Open the main.py file and replace the following placeholders with your own credentials:
 
-YOUR_NEWSAPI_API_KEY: Replace with your News API key.
-YOUR_TWILIO_ACCOUNT_SID: Replace with your Twilio account SID.
-YOUR_TWILIO_AUTH_TOKEN: Replace with your Twilio auth token.
-YOUR_TWILIO_PHONE_NUMBER: Replace with your Twilio phone number.
-YOUR_RECIPIENT_PHONE_NUMBER: Replace with the recipient's phone number.
+- YOUR_NEWSAPI_API_KEY: Replace with your News API key.
+- YOUR_TWILIO_ACCOUNT_SID: Replace with your Twilio account SID.
+- YOUR_TWILIO_AUTH_TOKEN: Replace with your Twilio auth token.
+- YOUR_TWILIO_PHONE_NUMBER: Replace with your Twilio phone number.
+- YOUR_RECIPIENT_PHONE_NUMBER: Replace with the recipient's phone number.
 
 # Usage
 To run the application, execute the following command:
